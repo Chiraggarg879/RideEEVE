@@ -1,0 +1,21 @@
+.table-main{
+    width: 100%;
+}
+
+th{
+    color: white;
+    background-color: green;
+    
+}
+
+td, th{
+    padding: 10px ;    
+}
+.table-main tbody tr:nth-child(even) {
+  background-color: #e2f7ec;
+}
+
+/* Style for odd rows */
+.table-main tbody tr:nth-child(odd) {
+  background-color: #d7e9f9;
+}

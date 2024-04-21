@@ -1,0 +1,32 @@
+.header-class{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.route-class{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bolder;
+}
+.btn-class{
+    display: flex;
+}
+.add-btn{
+    background-color: green;
+    color: white;
+}
+
+.view-btn{
+    color: green;
+    background-color: white;
+}
+
+.add-btn:hover{
+    color: green;
+    background-color: white;
+}
+.view-btn:hover{
+    background-color: green;
+    color: white;
+}

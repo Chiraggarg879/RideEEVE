@@ -1,0 +1,11 @@
+.main-div{
+    border: none;
+    background-color: inherit;
+}
+
+.info-heading{
+    padding: 4px;
+    margin-bottom: 5px;
+    background-color: green;
+    color: white;
+}
